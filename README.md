@@ -1,5 +1,5 @@
-<h1 align="center"> KÔKEStudio 🌿</h1>
+<h1 align="center"> Jardino 🌿</h1>
 
 <p align="center">
-  Landing page oficial do aplicatovo KÔKEStudio para iOS.
+  Landing page oficial do aplicatovo Jardino para iOS.
 </p>
